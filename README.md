@@ -1,13 +1,13 @@
 # 🚆 Seat Reservation Database System
 
-## 📘 Project Overview
+##  Project Overview
 
 The **Seat Reservation Database System** is a MySQL-based project designed to manage train schedules, passengers, and reservations.  
 It demonstrates database design principles, SQL query writing, and reporting for bookings, cancellations, and revenue tracking.
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 | Component    | Description     |
 | ------------ | --------------- |
@@ -17,7 +17,7 @@ It demonstrates database design principles, SQL query writing, and reporting for
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Manage train and route information efficiently
 - Track passenger and booking details
@@ -26,7 +26,7 @@ It demonstrates database design principles, SQL query writing, and reporting for
 
 ---
 
-## 🗂️ Database Schema Design
+##  Database Schema Design
 
 The database is normalized and includes the following tables:
 
@@ -42,11 +42,11 @@ The database is normalized and includes the following tables:
 
 ## 🔗 Entity-Relationship (ER) Diagram
 
-![ER Diagram](Seat_Reservation_ER_Diagram.png)
+![ER Diagram](ER_Diagram.png)
 
 ---
 
-## 💾 Key Features
+##  Key Features
 
 ✅ Normalized relational schema design  
 ✅ SQL queries for seat availability, booking, and cancellation  
@@ -54,11 +54,11 @@ The database is normalized and includes the following tables:
 
 - Daily passenger count
 - Route-wise revenue  
-  ✅ Proper foreign key relationships and constraints
+- Proper foreign key relationships and constraints
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 1. Open **MySQL Workbench**
 2. Create a new schema (example: `seat_reservation_db`)
@@ -105,3 +105,4 @@ Bengaluru, India
 GitHub Repository
 You can view the complete project here:
 https://github.com/ncpatil/seat-reservation-db
+
